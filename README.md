@@ -6,7 +6,7 @@ This is a simple application built on xcode storynoard. The application is just 
 
 App Walk-though
 
-Prework-video.gif
+https://github.com/MReyes1241/Codepath-Prework/blob/main/Prework-video.gif
 
 
 Required Features

@@ -6,7 +6,7 @@ This is a simple application built on xcode storynoard. The application is just 
 
 App Walk-though
 
-https://i.imgur.com/a/HGkni58.gif
+![Alt Text](https://i.imgur.com/a/HGkni58.gif)
 
 
 Required Features

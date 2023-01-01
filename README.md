@@ -5,7 +5,7 @@ This is a simple application built on xcode storynoard. The application is just 
 
 App Walk-though
 
-/Users/manuelreyes/Desktop/Prework-video.gif
+![](/Users/manuelreyes/Desktop/Prework-video.gif)
 
 
 Required Features
